@@ -1,2 +1,2 @@
 # Preloaded-Datasets
-Just for my refrence
+Datasets available in weka. Just for my refrence.
